@@ -1,2 +1,2 @@
 # Snake-game
-cc
+[Play][https://raihanulislam12s.github.io/Snake-game/]
